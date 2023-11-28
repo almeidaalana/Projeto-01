@@ -1,0 +1,8 @@
+#link{
+    color:paleturquoise;
+    text-decoration: none;
+}
+
+#link:hover{
+    color: blue;
+}
