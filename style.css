@@ -7,3 +7,7 @@ h2{
 #conteudo-lista{
     text-align: left;
 }
+#lnk:hover{
+    color: gold;
+    text-decoration: none;
+}
