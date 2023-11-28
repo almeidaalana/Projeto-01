@@ -7,6 +7,12 @@ h2{
 #conteudo-lista{
     text-align: left;
 }
+#lnk{
+    color:purple;
+    text-decoration: none;
+}
+
+}
 #lnk:hover{
     color: gold;
     text-decoration: none;
